@@ -129,6 +129,9 @@ http://103.199.161.254:80/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/ind
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Red Bull TV" tvg-logo="https://store-images.s-microsoft.com/image/apps.17102.9007199266286060.e5a6c641-2165-46d1-90f1-429549b643cd.baa183a4-ef9a-488a-a0e1-fab4395f0c7d" group-title="Sports",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
+#EXTINF:-1, Tsports Bdix1
+http://209.126.120.153/hls/tsports.m3u8
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
@@ -250,6 +253,12 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEUfSAD9DRRjtjW1MzoFtgmqm-iUMNV7VGgf3ozgV5LdIVTqMy&usqp=CAU" group-title="INDIA (New)",Music India
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+#EXTINF:-1, Hungama
+https://live.hungama.com/linear/dil-se/playlist_360p/index.m3u8
+#EXTINF:-1, channel 23
+http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Q3VtlF.png" group-title="Islamic",ATN Islamic TV
